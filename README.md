@@ -3,9 +3,12 @@
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](https://mail.google.com/mail/u/0/#inbox?compose=new) [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white
 )](https://github.com/GabrielCaramez)
 
-[![GabrielCaramez GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=GabrielCaramez&show_icons=true&theme=dark#gh-dark-mode-only)](https://github.com/GabrielCaramez/github-readme-stats#gh-dark-mode-only)
-[![GabrielCaramez GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=GabrielCaramez&show_icons=true&theme=default#gh-light-mode-only)](https://github.com/GabrielCaramez/github-readme-stats#gh-light-mode-only)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaramez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaramez&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
 
+###
 ## Linguagem que uso no meu dia a dia
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
