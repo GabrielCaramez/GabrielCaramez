@@ -6,8 +6,8 @@ Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora esto
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCaramez)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaramez&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&hide_border=false" alt="GitHub Stats"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GabrielCaramez&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="Top Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaramez&show_icons=true&theme=radical" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCaramez&layout=compact&theme=radical&cache_seconds=86400" height="165"/>
 </div>
 
 ---
