@@ -1,4 +1,4 @@
-### Olá! Eu sou o Gabriel Caramez, bacharelando em Ciência da Computação no CEUB 👨‍💻
+### Olá! Eu sou o Gabriel Caramez, Bacharelando em Ciência da Computação no CEUB 👨‍💻
 
 Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora estou cursando Bacharelado em Ciência da Computação no CEUB.
 
