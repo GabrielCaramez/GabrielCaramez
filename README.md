@@ -2,13 +2,10 @@
 
 Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora estou cursando Bacharelado em Ciência da Computação no CEUB.
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:gabrielcaramez@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caramezgabriel72@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCaramez)
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GabrielCaramez&show_icons=true&theme=radical" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GabrielCaramez&layout=compact&theme=radical&cache_seconds=86400" height="165"/>
-</div>
+[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=DevGabrielRibeiro&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
 
 ---
 
@@ -26,9 +23,9 @@ Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora esto
 
 <p align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BudaBecker/BudaBecker/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/BudaBecker/BudaBecker/output/pacman-contribution-graph.svg">
-    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/BudaBecker/BudaBecker/output/pacman-contribution-graph.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCaramez/GabrielCaramez/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GabrielCaramez/GabrielCaramez/output/pacman-contribution-graph.svg">
+    <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/GabrielCaramez/GabrielCaramez/output/pacman-contribution-graph.svg">
   </picture>
 </p>
 
