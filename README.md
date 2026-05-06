@@ -1,27 +1,75 @@
-### Olá! Eu sou o Gabriel Caramez, Bacharelando em Ciência da Computação no CEUB 👨‍💻
+<!-- Banner topo com efeito animado -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0052ff,00ffc3&height=200&section=header&text=Gabriel%20Caramez&fontSize=46&fontColor=fff&animation=fadeIn" alt="Gabriel Caramez Banner"/>
+</p>
 
-Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora estou cursando Bacharelado em Ciência da Computação no CEUB.
+<!-- Gif animado de tecnologia -->
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" height="110" alt="Coding gif" />
+</p>
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:caramezgabriel72@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/GabrielCaramez)
+<h3 align="center"><b>Bem-vindo ao meu perfil!</b></h3>
 
-[![Top languages](https://github-readme-mwendwa.vercel.app/api/top-langs/?username=GabrielCaramez&layout=compact&count_private=true&theme=blue-green&title_color=00b3ff)](#)
+<p align="center">
+  Bacharelando em Ciência da Computação no CEUB <br>
+  Graduado em Análise e Desenvolvimento de Sistemas (SENAC) <br>
+  Focado em desenvolvimento web, backend e aprendizado contínuo
+</p>
+
+<!-- Badges organizados (agora apenas imagens, sem links) -->
+<p align="center" style="margin-bottom: 10px;">
+  <img src="https://img.shields.io/badge/E--mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</p>
+
+<!-- Digitação animada -->
+<p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&multiline=true&width=435&height=60&lines=Transformando+ideias+em+c%C3%B3digo+;Explorando+novas+tecnologias" alt="Typing SVG" /></a>
+</p>
 
 ---
 
-## Linguagens que uso no meu dia a dia
+## Sobre mim
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white) 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+- Bacharelando em Ciência da Computação no CEUB
+- Graduado em Análise e Desenvolvimento de Sistemas (SENAC)
+- Entusiasta de lógica, web e desafios de programação
+- Curto solucionar problemas reais usando tecnologia
 
 ---
 
-### Tomara que vocês gostem do meu GitHub ❤️
+## Linguagens e Ferramentas
 
+<p align="center" style="margin-bottom: 20px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="48px" alt="Python" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="48px" alt="Java" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="48px" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="48px" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="48px" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="48px" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="48px" alt="Git" />
+</p>
+
+---
+
+## Estatísticas
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=GabrielCaramez&theme=tokyonight&hide_border=true" height="158px" alt="Dias consecutivos de contribuição" />
+</p>
+
+---
+
+## Curiosidades
+
+- Sempre aberto a novas ideias e colaborações
+- Fã de desafios de lógica e raciocínio
+- Gosto de estudar novas linguagens e tendências em tecnologia
+- Meu objetivo é transformar problemas complexos em soluções inteligentes
+
+---
+
+<!-- Gráfico de contribuições estilo PacMan -->
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GabrielCaramez/GabrielCaramez/output/pacman-contribution-graph-dark.svg">
@@ -29,3 +77,12 @@ Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora esto
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/GabrielCaramez/GabrielCaramez/output/pacman-contribution-graph.svg">
   </picture>
 </p>
+
+<!-- Footer GIF funcional e sempre online -->
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" height="85" alt="Footer gif" />
+</p>
+
+---
+
+<p align="center"><b>Sinta-se à vontade para explorar, contribuir ou entrar em contato.</b></p>
