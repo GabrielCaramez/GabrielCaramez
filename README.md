@@ -19,7 +19,8 @@ Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora esto
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 
 ---
-##
+
+### Tomara que vocês gostem do meu GitHub ❤️
 
 <p align="center">
   <picture>
@@ -28,5 +29,3 @@ Atualmente concluí Análise e Desenvolvimento de Sistemas no SENAC e agora esto
     <img alt="Pacman Contribution Graph" src="https://raw.githubusercontent.com/GabrielCaramez/GabrielCaramez/output/pacman-contribution-graph.svg">
   </picture>
 </p>
-
-### Tomara que vocês gostem do meu GitHub ❤️
